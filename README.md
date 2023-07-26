@@ -5,7 +5,7 @@ A simple Pong game made in Python.
 
 Controls:
 1. Player 1: W (up), S (down)
-2.Player 2: O (up), L (down)
+2. Player 2: O (up), L (down)
 3. G - resets the game
 4. ESC - exits to cmd/terminal
 
